@@ -3,10 +3,10 @@ class Solution(object):
         if len(s) != len(t):
             return False
         count = {}
-        for ch in s:
-            count[ch] = count.get(ch, 0) + 1
-        for ch in t:
-            if ch not in count or count[ch] == 0:
+        for i in s:
+            count[i] = 1 + count.get(i,0)
+        for i in t:
+            if i not in count or count[i] == 0:
                 return False
-            count[ch] -= 1
+            count[i] -= 1
         return True
