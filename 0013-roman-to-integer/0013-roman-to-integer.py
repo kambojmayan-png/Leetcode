@@ -9,13 +9,12 @@ class Solution:
             "D":500,
             "M":1000
         }
-        l,r = 0,1
+
         num = 0
-        while r < len(s):
-            if valueMap[s[l]] < valueMap[s[r]]:
-                num = num - valueMap[s[l]]
+        for i in range(len(s) - 1):
+            if valueMap[s[i]] < valueMap[s[i + 1]]:
+                num -= valueMap[s[i]]
             else:
-                num = num + valueMap[s[l]]
-            l += 1
-            r += 1
-        return num + valueMap[s[l]]
+                num += valueMap[s[i]]
+        
+        return num + valueMap[s[-1]]
