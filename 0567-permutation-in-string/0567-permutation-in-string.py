@@ -12,16 +12,12 @@ class Solution:
 
         if target == count: return True
 
-        l = 0
-
         for r in range(len(s1),len(s2)):
 
             count[ord(s2[r]) - ord("a")] += 1
-            count[ord(s2[l]) - ord("a")] -= 1 
+            count[ord(s2[r-len(s1)]) - ord("a")] -= 1 
 
             if target == count:
                 return True
-            
-            l += 1
             
         return False
