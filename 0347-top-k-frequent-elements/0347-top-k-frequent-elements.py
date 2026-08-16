@@ -1,19 +1,17 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-     
-        freqMap = Counter(nums)
-       
-        arr = list(freqMap.items())
-       
-        for i in range(len(arr)):
-            index = i
-            for j in range(i + 1, len(arr)):
-                if arr[j][1] > arr[index][1]:   
-                    index = j
-            arr[i], arr[index] = arr[index], arr[i]  
-  
-        final = []
-        for i in range(k):
-            final.append(arr[i][0])  
+        count = {}
+        freq = [[] for i in range(len(nums) + 1)]
 
-        return final
+        for n in nums:
+            count[n] = 1 + count.get(n, 0)
+
+        for n,c in count.items():
+            freq[c].append(n)
+
+        res = []
+        for i in range(len(freq) - 1, 0, -1):
+            for n in freq[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
