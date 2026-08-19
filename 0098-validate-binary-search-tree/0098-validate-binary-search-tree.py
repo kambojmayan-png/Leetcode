@@ -1,1 +1,10 @@
-class Solution: isValidBST=lambda self,root:(lambda f:f(f,root,float("-inf"),float("inf")))(lambda f,n,l,h:not n or (l<n.val<h and f(f,n.left,l,n.val) and f(f,n.right,n.val,h)))
+class Solution:
+    def isValidBST(self, root):
+        def valid(node, low, high):
+            if not node:
+                return True
+            if not (low < node.val < high):
+                return False
+            return valid(node.left, low, node.val) and valid(node.right, node.val, high)
+
+        return valid(root, float('-inf'), float('inf'))
