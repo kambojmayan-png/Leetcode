@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/kambojmayan-png/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -29,6 +30,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/kambojmayan-png/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/kambojmayan-png/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/kambojmayan-png/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kambojmayan-png/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
