@@ -1,0 +1,1 @@
+class Solution: isValidBST=lambda self,root:(lambda f:f(f,root,float("-inf"),float("inf")))(lambda f,n,l,h:not n or (l<n.val<h and f(f,n.left,l,n.val) and f(f,n.right,n.val,h)))
