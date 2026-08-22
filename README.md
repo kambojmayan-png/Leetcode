@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
 ## Prefix Sum
 |  |
 | ------- |
