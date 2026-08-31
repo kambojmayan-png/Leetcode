@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kambojmayan-png/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/kambojmayan-png/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kambojmayan-png/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
