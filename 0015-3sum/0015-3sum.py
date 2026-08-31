@@ -14,13 +14,14 @@ class Solution(object):
                 cur = nums[i] + nums[l] + nums[r]
                 if cur == 0:
                     res.append([nums[i], nums[l], nums[r]])
-
-                    while l < r and nums[l] == nums[l + 1]:
-                        l += 1
-                    while l < r and nums[r] == nums[r - 1]:
-                        r -= 1
                     l += 1
                     r -= 1
+
+                    while l < r and nums[l] == nums[l - 1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r + 1]:
+                        r -= 1
+                    
                 elif cur < 0:
                     l += 1
                 else:
