@@ -33,6 +33,7 @@
 | [0036-valid-sudoku](https://github.com/kambojmayan-png/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/kambojmayan-png/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kambojmayan-png/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/kambojmayan-png/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
