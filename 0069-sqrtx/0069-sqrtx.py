@@ -1,10 +1,8 @@
 class Solution(object):
     def mySqrt(self, x):
         i = 0
-        res = 0
 
-        while res <= x:
+        while i * i <= x:
             i += 1
-            res = i * i
             
         return i-1
