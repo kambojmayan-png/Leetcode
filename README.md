@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/kambojmayan-png/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
 ## Prefix Sum
 |  |
@@ -98,6 +99,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kambojmayan-png/Leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/kambojmayan-png/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Tree
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kambojmayan-png/Leetcode/tree/master/0155-min-stack) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kambojmayan-png/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
