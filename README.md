@@ -40,6 +40,7 @@
 | [0238-product-of-array-except-self](https://github.com/kambojmayan-png/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/kambojmayan-png/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/kambojmayan-png/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kambojmayan-png/Leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
