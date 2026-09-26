@@ -80,6 +80,7 @@
 | [0739-daily-temperatures](https://github.com/kambojmayan-png/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kambojmayan-png/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
