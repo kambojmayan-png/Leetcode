@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kambojmayan-png/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0098-validate-binary-search-tree](https://github.com/kambojmayan-png/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
