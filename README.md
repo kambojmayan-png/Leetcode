@@ -15,6 +15,7 @@
 | [0344-reverse-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kambojmayan-png/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
