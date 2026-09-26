@@ -60,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kambojmayan-png/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/kambojmayan-png/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/kambojmayan-png/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@
 | [0088-merge-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kambojmayan-png/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/kambojmayan-png/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
