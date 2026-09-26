@@ -1,11 +1,11 @@
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
-        k = 0
-        Max_profit = 0
-        for i in range(1,len(prices)):
-            if prices[i] - prices[k] < 0:
-                k = i
+        min_price = prices[0]
+        max_profit = 0
+        for price in prices[1:]:
+            if price < min_price: 
+                min_price = price
             else:
-                Max_profit = max(prices[i] - prices[k] , Max_profit)
+                max_profit = max( price - min_price , max_profit)
 
-        return Max_profit
+        return max_profit
