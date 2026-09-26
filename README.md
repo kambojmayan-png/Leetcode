@@ -33,6 +33,7 @@
 | [0036-valid-sudoku](https://github.com/kambojmayan-png/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/kambojmayan-png/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kambojmayan-png/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -125,12 +126,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kambojmayan-png/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Design
 |  |
 | ------- |
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
