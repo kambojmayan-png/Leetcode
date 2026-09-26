@@ -43,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kambojmayan-png/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kambojmayan-png/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/kambojmayan-png/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kambojmayan-png/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/kambojmayan-png/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kambojmayan-png/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
 ## Prefix Sum
