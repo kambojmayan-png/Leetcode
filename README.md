@@ -15,7 +15,6 @@
 | [0344-reverse-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kambojmayan-png/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kambojmayan-png/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +100,7 @@
 | [0088-merge-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kambojmayan-png/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kambojmayan-png/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -136,9 +137,9 @@
 | [0069-sqrtx](https://github.com/kambojmayan-png/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kambojmayan-png/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kambojmayan-png/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,7 +181,6 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0011-container-with-most-water) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,4 +244,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
