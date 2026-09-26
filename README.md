@@ -77,6 +77,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kambojmayan-png/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kambojmayan-png/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kambojmayan-png/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
@@ -206,12 +207,14 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kambojmayan-png/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kambojmayan-png/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/kambojmayan-png/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/kambojmayan-png/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
 ## Design
 |  |
