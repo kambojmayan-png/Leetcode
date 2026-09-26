@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kambojmayan-png/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kambojmayan-png/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -63,6 +64,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kambojmayan-png/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kambojmayan-png/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kambojmayan-png/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kambojmayan-png/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
