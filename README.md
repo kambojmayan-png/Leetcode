@@ -6,7 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kambojmayan-png/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0013-roman-to-integer) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0020-valid-parentheses](https://github.com/kambojmayan-png/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kambojmayan-png/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kambojmayan-png/Leetcode/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
@@ -63,7 +63,6 @@
 | [0011-container-with-most-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kambojmayan-png/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0027-remove-element) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
@@ -142,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kambojmayan-png/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kambojmayan-png/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kambojmayan-png/Leetcode/tree/master/0155-min-stack) |
@@ -169,20 +169,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kambojmayan-png/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
-## String Matching
+## Bracket Sequences
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Z Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0020-valid-parentheses](https://github.com/kambojmayan-png/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
