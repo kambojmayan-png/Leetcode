@@ -12,6 +12,7 @@
 | [0058-length-of-last-word](https://github.com/kambojmayan-png/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kambojmayan-png/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@
 | [0070-climbing-stairs](https://github.com/kambojmayan-png/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kambojmayan-png/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/kambojmayan-png/Leetcode/tree/master/0682-baseball-game) |
 ## Range Minimum/Maximum Query
 |  |
