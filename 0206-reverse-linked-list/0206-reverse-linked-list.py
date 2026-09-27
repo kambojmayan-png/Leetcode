@@ -3,15 +3,18 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+def recursion(head):
+    if head == None or head.next == None:
+        return head
+        
+    newHead = recursion(head.next)
+    
+    front = head.next
+    front.next = head
+    head.next = None
+
+    return newHead 
+
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        prev = None
-        cur = head
-
-        while cur:
-            next_node = cur.next
-            cur.next = prev
-            prev = cur
-            cur = next_node
-
-        return prev
+        return recursion(head)
