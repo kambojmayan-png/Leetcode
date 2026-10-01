@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/kambojmayan-png/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/kambojmayan-png/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kambojmayan-png/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -34,12 +35,14 @@
 | [0242-valid-anagram](https://github.com/kambojmayan-png/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/kambojmayan-png/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kambojmayan-png/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kambojmayan-png/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kambojmayan-png/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
