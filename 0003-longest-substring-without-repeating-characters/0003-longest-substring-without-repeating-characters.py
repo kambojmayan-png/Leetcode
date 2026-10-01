@@ -9,6 +9,6 @@ class Solution:
                 substring.remove(s[l])
                 l += 1
             substring.add(s[r])
-            maxlen = max(maxlen, r - l + 1)
+            maxlen = max(maxlen , r - l + 1)
 
         return maxlen
