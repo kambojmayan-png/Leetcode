@@ -81,6 +81,7 @@
 | [0217-contains-duplicate](https://github.com/kambojmayan-png/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kambojmayan-png/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kambojmayan-png/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kambojmayan-png/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kambojmayan-png/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -194,6 +196,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kambojmayan-png/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kambojmayan-png/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kambojmayan-png/Leetcode/tree/master/0704-binary-search) |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -282,6 +286,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kambojmayan-png/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -315,4 +320,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/kambojmayan-png/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/kambojmayan-png/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kambojmayan-png/Leetcode/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
