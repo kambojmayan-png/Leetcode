@@ -93,6 +93,7 @@
 | [0739-daily-temperatures](https://github.com/kambojmayan-png/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
