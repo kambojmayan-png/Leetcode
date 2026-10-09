@@ -6,7 +6,7 @@ class Solution:
                 if i == j:
                     continue
 
-                if 2*arr[i] == arr[j]:
+                if arr[i] == 2*arr[j]:
                     return True
 
         return False
