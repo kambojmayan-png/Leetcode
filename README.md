@@ -43,6 +43,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kambojmayan-png/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2351-first-letter-to-appear-twice](https://github.com/kambojmayan-png/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -97,6 +98,7 @@
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kambojmayan-png/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/kambojmayan-png/Leetcode/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kambojmayan-png/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +210,7 @@
 | [0367-valid-perfect-square](https://github.com/kambojmayan-png/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kambojmayan-png/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
 |  |
 | ------- |
