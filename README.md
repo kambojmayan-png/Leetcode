@@ -100,6 +100,7 @@
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/kambojmayan-png/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -179,6 +180,7 @@
 | [0263-ugly-number](https://github.com/kambojmayan-png/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/kambojmayan-png/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
+| [0989-add-to-array-form-of-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
