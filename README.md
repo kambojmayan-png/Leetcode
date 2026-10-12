@@ -45,6 +45,7 @@
 | [0771-jewels-and-stones](https://github.com/kambojmayan-png/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/kambojmayan-png/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/kambojmayan-png/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/kambojmayan-png/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kambojmayan-png/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kambojmayan-png/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/kambojmayan-png/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
