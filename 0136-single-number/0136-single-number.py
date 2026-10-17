@@ -1,6 +1,9 @@
-class Solution(object):
-    def singleNumber(self, nums):
-        xxor = 0
+class Solution:
+    def singleNumber(self, nums: list[int]) -> int:
+        hashmap = {}
         for i in nums:
-            xxor ^= i
-        return xxor
+            hashmap[i] = hashmap.get(i , 0) + 1
+
+        for i in nums:
+            if hashmap[i] == 1:
+                return i
