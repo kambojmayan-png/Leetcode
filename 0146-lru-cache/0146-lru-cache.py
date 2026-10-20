@@ -41,9 +41,9 @@ class LRUCache(object):
         self.insert(self.cache[key])
         
         if len(self.cache) > self.cap:
-            del self.cache[self.left.next.key]
-            self.left.next.next.prev = self.left
-            self.left.next = self.left.next.next
+            lru = self.left.next
+            del self.cache[lru.key]
+            self.remove(lru)
             
 
 # Your LRUCache object will be instantiated and called as such:
