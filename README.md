@@ -19,6 +19,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kambojmayan-png/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kambojmayan-png/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0981-time-based-key-value-store](https://github.com/kambojmayan-png/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [2351-first-letter-to-appear-twice](https://github.com/kambojmayan-png/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -44,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kambojmayan-png/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0981-time-based-key-value-store](https://github.com/kambojmayan-png/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/kambojmayan-png/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -224,6 +226,7 @@
 | [0367-valid-perfect-square](https://github.com/kambojmayan-png/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kambojmayan-png/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kambojmayan-png/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/kambojmayan-png/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
 |  |
@@ -273,6 +276,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kambojmayan-png/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kambojmayan-png/Leetcode/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/kambojmayan-png/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Newton's Method
 |  |
 | ------- |
