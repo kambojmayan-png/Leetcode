@@ -1,30 +1,52 @@
-
-class TimeMap:
+class TimeMap(object):
 
     def __init__(self):
-        self.store = {}
+        self.hashmap = {}
 
     def set(self, key, value, timestamp):
-        if key not in self.store:
-            self.store[key] = []
+        """
+        :type key: str
+        :type value: str
+        :type timestamp: int
+        :rtype: None
+        """
+        if key not in self.hashmap:
+            self.hashmap[key] = []
 
-        self.store[key].append([timestamp, value])
+        self.hashmap[key].append([value,timestamp])
+        
 
     def get(self, key, timestamp):
-        res = ""
-        values = self.store.get(key, [])
+        """
+        :type key: str
+        :type timestamp: int
+        :rtype: str
+        """
+        res = -1
 
-        l, r = 0, len(values) - 1
+        if key not in self.hashmap:
+            return ""
+
+        l,r = 0,len(self.hashmap[key])-1
 
         while l <= r:
-            mid = (l + r) // 2
 
-            time, value = values[mid]
+            mid = (l + r)/2
 
-            if time <= timestamp:
-                res = value
-                l = mid + 1
-            else:
+            if self.hashmap[key][mid][1] == timestamp:
+                return self.hashmap[key][mid][0]
+
+            elif self.hashmap[key][mid][1] > timestamp:
                 r = mid - 1
 
-        return res
+            else:
+                res = mid 
+                l = mid + 1
+
+
+        return self.hashmap[key][res][0] if res != -1 else ""
+
+# Your TimeMap object will be instantiated and called as such:
+# obj = TimeMap()
+# obj.set(key,value,timestamp)
+# param_2 = obj.get(key,timestamp)
