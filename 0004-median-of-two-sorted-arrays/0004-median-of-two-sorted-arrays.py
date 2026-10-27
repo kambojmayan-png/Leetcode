@@ -5,26 +5,32 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
-        nums = []
-        i,j = 0,0
+        x,y = nums1,nums2
+        total = len(x) + len(y)
+        half = (len(x) + len(y))//2
 
-        while i<len(nums1) and j<len(nums2):
-            if nums1[i] < nums2[j]:
-                nums.append(nums1[i])
-                i += 1
+        if len(y) < len(x):
+            x,y = y,x
+
+        l,r = 0,len(x)-1
+
+        while True:
+            i = (l + r)//2 #x
+            j = half - i - 2#y
+
+            xLeft = x[i] if i >= 0 else float("-infinity")
+            xRight = x[i + 1] if i + 1 < len(x) else float("infinity")
+            yLeft = y[j] if j >= 0 else float("-infinity")
+            yRight = y[j + 1] if j + 1 < len(y) else float("infinity")
+
+            if xLeft <= yRight and yLeft <= xRight:
+                if total%2 != 0:
+                    return min(xRight , yRight)
+                
+                return (max(xLeft,yLeft) + min(xRight,yRight))/2.0
+
+            elif xLeft > yRight:
+                r = i - 1
+
             else:
-                nums.append(nums2[j])
-                j += 1
-
-        while i < len(nums1):
-            nums.append(nums1[i])
-            i += 1
-
-        while j < len(nums2):
-            nums.append(nums2[j])
-            j += 1
-            
-        if len(nums)%2 == 0:
-            return (nums[len(nums)//2] + nums[len(nums)//2 - 1])/2.0
-
-        return nums[len(nums)//2]
+                l = i + 1
