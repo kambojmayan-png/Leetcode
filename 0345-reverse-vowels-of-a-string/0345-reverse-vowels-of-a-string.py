@@ -4,20 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        vowel = []
-        for i in range(len(s)):
-            if s[i] in "AEIOUaeiou":
-                vowel.append(i)
-            
-        l,r = 0,len(vowel)-1
+        vowel = "AEIOUaeiou"
+        s = list(s)
 
-        word = []
-        for i in s:
-            word.append(i)
+        l,r = 0,len(s) - 1
 
         while l < r:
-            word[vowel[l]],word[vowel[r]] = word[vowel[r]],word[vowel[l]]
+            while l < r and s[l] not in vowel:
+                l += 1
+            while l < r and s[r] not in vowel:
+                r -= 1
+
+            s[l],s[r] = s[r],s[l]
             l += 1
             r -= 1
 
-        return ''.join(word)
+        return "".join(s)
