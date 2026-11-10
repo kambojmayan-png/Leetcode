@@ -206,6 +206,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kambojmayan-png/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/kambojmayan-png/Leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
