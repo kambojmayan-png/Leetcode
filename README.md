@@ -115,6 +115,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kambojmayan-png/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kambojmayan-png/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Sorting
 |  |
@@ -204,6 +205,7 @@
 | [0412-fizz-buzz](https://github.com/kambojmayan-png/Leetcode/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kambojmayan-png/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
