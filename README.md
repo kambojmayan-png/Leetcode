@@ -22,6 +22,7 @@
 | [0567-permutation-in-string](https://github.com/kambojmayan-png/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/kambojmayan-png/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/kambojmayan-png/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kambojmayan-png/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/kambojmayan-png/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kambojmayan-png/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -112,6 +113,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/kambojmayan-png/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/kambojmayan-png/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kambojmayan-png/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kambojmayan-png/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kambojmayan-png/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Sorting
 |  |
