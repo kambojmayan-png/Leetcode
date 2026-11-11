@@ -1,23 +1,22 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        aNum = 0
-        bNum = 0
-        for i in range(len(a) - 1, -1, -1):
-            aNum += (2 ** i)*int(a[len(a) - 1 - i])
+        i = len(a) - 1
+        j = len(b) - 1
+        carry = 0
+        res = []
 
-        for i in range(len(b) - 1, -1, -1):
-            bNum += (2 ** i)*int(b[len(b) - 1 - i])
-        
-        resNum = aNum + bNum
+        while i >= 0 or j >= 0 or carry:
+            total = carry
 
-        if resNum == 0:
-            return "0"
+            if i >= 0:
+                total += int(a[i])
+                i -= 1
 
-        res = ""
+            if j >= 0:
+                total += int(b[j])
+                j -= 1
 
-        while resNum != 0:
+            res.append(str(total % 2))
+            carry = total // 2
 
-            res += str(resNum % 2)
-            resNum = resNum//2
-
-        return res[::-1]
+        return ''.join(reversed(res))
